@@ -1,6 +1,6 @@
 import React from 'react'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-const Ap = () => {
+const App = () => {
   return (
     <div>
     </div>
